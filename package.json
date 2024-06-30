@@ -2,7 +2,7 @@
   "name": "note-mark",
   "version": "1.0.0",
   "description": "A Markdown Note taking app built with Electron",
-  "license": "MIT",
+  "license": "",
   "main": "./out/main/index.js",
   "scripts": {
     "format": "prettier --write .",
